@@ -47,7 +47,13 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 
 
 >Relé e contato seco?
-Contato seco é um termo usado para descrever um tipo de contato elétrico que não fornece energia aos contatos (completamente passiva e isolada). Os contatos de saída de um relé eletromagnético ou óptico são exemplos de contatos secos. Isso significa que a energia do relé eletromagnético é fornecida à bobina do relé, e não aos próprios contatos.
+Relé: Um relé é um dispositivo eletromecânico que é usado para controlar circuitos elétricos por meio do uso de uma bobina eletromagnética. Quando uma corrente elétrica passa pela bobina, ela cria um campo magnético que atrai um conjunto de contatos para fechar ou abrir um circuito elétrico separado, permitindo assim o controle de dispositivos elétricos ou eletrônicos.
+
+Contato seco: O contato seco de um relé é uma forma de contato que não possui nenhuma conexão elétrica direta com a bobina eletromagnética do relé. Quando a bobina é energizada, o campo magnético atrai ou repele os contatos, fazendo com que se movam para fechar ou abrir um circuito elétrico. Os contatos não têm conexão elétrica direta com a bobina e, portanto, não há corrente elétrica fluindo pelos contatos quando eles se fecham ou abrem.
+
+Contato molhado: O contato molhado de um relé é uma forma de contato que tem uma conexão elétrica direta com a bobina eletromagnética do relé. Quando a bobina é energizada, a corrente elétrica flui diretamente pelos contatos, permitindo que eles fechem ou abram um circuito elétrico. Os contatos molhados são geralmente usados em aplicações de alta corrente ou alta voltagem, onde os contatos precisam ser mais robustos e capazes de lidar com maior demanda de corrente elétrica.
+
+Em resumo, o contato seco de um relé não tem conexão elétrica direta com a bobina, enquanto o contato molhado tem uma conexão elétrica direta com a bobina, permitindo a passagem de corrente elétrica pelos contatos quando eles se fecham ou abrem. Os contatos molhados são geralmente usados em aplicações de alta corrente ou alta voltagem, enquanto os contatos secos são usados em aplicações de menor corrente ou voltagem.
 
 ## 🛠️ Construído utilizando
 
