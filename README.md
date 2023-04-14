@@ -30,18 +30,24 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 
 ### 🔧 Sobre o relé
 
-| Esquema do relé utilizando fonte em arduino |
-| <img src="/acionamento_de_motor/rele_c_fonte12V.jpeg"> |
-
-| Esquema do relé sem fonte em esp32 |
-| <img src="/acionamento_de_motor/rele_s_fonte_esp.jpeg"> |
-
-| Esquema do relé sem fonte em arduino |
-| <img src="/acionamento_de_motor/rele_s_fonte_ard.jpeg"> |
+<table>
+  <tr>
+    <td>Esquema do relé utilizando fonte em arduino</td>
+    <td><img src="/acionamento_de_motor/rele_c_fonte12V.jpeg" alt="Com fonte 12V em arduino"></td>
+  </tr>
+  <tr>
+    <td>Esquema do relé sem fonte em esp32</td>
+    <td><img src="/acionamento_de_motor/rele_s_fonte_esp.jpeg" alt="Sem fonte em esp32"></td>
+  </tr>
+  <tr>
+    <td>Esquema do relé sem fonte em arduino</td>
+    <td><img src="/acionamento_de_motor/rele_s_fonte_ard.jpeg" alt="Sem fonte em arduino"></td>
+  </tr>
+</table>
 
 
 >Relé e contato seco?
-Contato seco é um termo usado para descrever um tipo de contato elétrico que não fornece energia aos contatos (completamente passiva e isolada). Os contatos de saída de um relé eletromagnético ou óptico são exemplos de contatos secos. Isso significa que a energia do relé eletromagnético é fornecida à bobina do relé, e não aos próprios contatos. Isso ajuda?
+Contato seco é um termo usado para descrever um tipo de contato elétrico que não fornece energia aos contatos (completamente passiva e isolada). Os contatos de saída de um relé eletromagnético ou óptico são exemplos de contatos secos. Isso significa que a energia do relé eletromagnético é fornecida à bobina do relé, e não aos próprios contatos.
 
 ## 🛠️ Construído utilizando
 
