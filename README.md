@@ -5,12 +5,12 @@ Este projeto é uma prototipagem utilizando Arduino com objetivo de demonstrar a
 
 Objetivos:
 
-- [x] Leitura do valor analógico do sensor de umidade de solo 
-- [x] Escala da umidade
-- [x] Exibir porcentagem da umidade do solo
-- [x] Script de execução separado em funções
-- [x] Não necessita de fonte de alimentação externa para o motor de 5V, mas tensões maiores precisam
-- [x] Acionamento e desligamento do motor em codição da escala de umidade
+- [x] Leitura do valor analógico do sensor de umidade de solo. 
+- [x] Escala da umidade.
+- [x] Exibir porcentagem da umidade do solo.
+- [x] Script de execução separado em funções.
+- [x] Não necessita de fonte de alimentação externa para o motor de 5V, mas tensões maiores precisam de uma fonte externa.
+- [x] Acionamento e desligamento do motor em condição da escala de umidade.
 
 ## 🚀 Instruções de montagem
 
@@ -21,11 +21,11 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 
 ### Materiais utilizados:
 ```
-- Arduino Uno R3
-- Sensor higrometro ou sensor de umidade de solo
-- Modulo Relé 2 canais
-- Motor de aquário 5V
-- Cabos para as ligações
+- Arduino Uno R3.
+- Sensor higrometro ou sensor de umidade de solo.
+- Modulo Relé 2 canais.
+- Motor de aquário 5V.
+- Cabos para as ligações.
 ```
 
 ### 🔧 Sobre o relé
@@ -57,8 +57,6 @@ Em resumo, o contato seco de um relé não tem conexão elétrica direta com a b
 
 ## 🛠️ Construído utilizando
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Arduino IDE 2.0.4](https://downloads.arduino.cc/arduino-ide/nightly/arduino-ide_nightly-latest_Windows_64bit.zip) - O IDE usado.
 
 * [Fritzing](https://fritzing.org/download/) - Software para prototipagem.
@@ -66,5 +64,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 Alternativa ao Fritzing
 
 * [Tinkercad](https://www.tinkercad.com/) - Site de simulação de projetos com arduino e modelagem.
+
 
 [⬆ Voltar ao topo](#Acionamento_de_motor)<br>
