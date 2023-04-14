@@ -31,18 +31,17 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 ### 🔧 Sobre o relé
 
 | Esquema do relé utilizando fonte em arduino |
-| <img src="/acionamento_de_motor/rele_c_fonte12V.png"> |
+| <img src="/acionamento_de_motor/rele_c_fonte12V.jpeg"> |
 
 | Esquema do relé sem fonte em esp32 |
-| <img src="/acionamento_de_motor/rele_s_fonte_esp.png"> |
+| <img src="/acionamento_de_motor/rele_s_fonte_esp.jpeg"> |
 
 | Esquema do relé sem fonte em arduino |
-| <img src="/acionamento_de_motor/rele_s_fonte_ard.png"> |
+| <img src="/acionamento_de_motor/rele_s_fonte_ard.jpeg"> |
 
-```
-Relé e contato seco?
+
+>Relé e contato seco?
 Contato seco é um termo usado para descrever um tipo de contato elétrico que não fornece energia aos contatos (completamente passiva e isolada). Os contatos de saída de um relé eletromagnético ou óptico são exemplos de contatos secos. Isso significa que a energia do relé eletromagnético é fornecida à bobina do relé, e não aos próprios contatos. Isso ajuda?
-```
 
 ## 🛠️ Construído utilizando
 
