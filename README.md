@@ -1,7 +1,7 @@
 
-# Acionamento de motor para irrigação autimatizada 
+# Acionamento de motor para irrigação automatizada 
 
-Este projeto é uma prototipagem utilizando Arduino com objetivo de demonstrar a atuação do relé de canal duplo e o sensor higrometro ou sensor de umidade de solo.
+Este projeto é uma prototipagem utilizando Arduino com objetivo de demonstrar a utilização do relé de canal duplo e o sensor higrômetro ou sensor de umidade de solo.
 
 Objetivos:
 
@@ -27,6 +27,26 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 - Motor de aquário 5V.
 - Cabos para as ligações.
 ```
+
+
+### 🔧 Sobre o higrômetro ou sensor de umidade de solo
+
+<table>
+  <tr>
+    <td>Higrômetro ou sensor de umidade de solo</td>
+    <td><img src="/acionamento_de_motorsensor_de_umidade_do_solo_higrometro.jpeg" alt="sensor higrometro"></td>
+  </tr>
+</table>
+
+
+>O higrômetro ou sensor de umidade do solo é um dispositivo utilizado para medir a umidade da terra. Ele é geralmente enterrado no solo, próximo às raízes das plantas, para monitorar a quantidade de água disponível no solo. É comumente utilizado em aplicações de irrigação, plantações, agricultura e pecuária.
+
+>Os sensores de umidade do solo são projetados para serem resistentes à corrosão e capazes de suportar as condições climáticas e ambientais em que são instalados. Eles geralmente possuem uma instalação simples, com dois eletrodos que são inseridos no solo para conduzir corrente elétrica. A umidade do solo afeta a resistência elétrica do solo, onde a água diminui a resistência e o solo seco conduz com mais dificuldade.
+
+>A leitura da umidade do solo é obtida por meio da comparação da resistência elétrica medida pelo sensor com os valores de referência previamente calibrados. Com base nessa leitura, é possível determinar o nível de umidade do solo e tomar decisões informadas sobre a irrigação ou outras práticas agrícolas.
+
+>É importante notar que a calibração adequada dos sensores de umidade do solo é essencial para obter medições precisas. A calibração deve ser realizada com base nas características do solo específico em que o sensor está sendo utilizado, uma vez que diferentes tipos de solo têm diferentes propriedades elétricas.
+
 
 ### 🔧 Sobre o relé
 
