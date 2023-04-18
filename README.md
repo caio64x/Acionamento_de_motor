@@ -1,5 +1,5 @@
 
-# Acionamento de motor para irrigação autimatizada 
+# Acionamento de motor para irrigação automatizada 
 
 Este projeto é uma prototipagem utilizando Arduino com objetivo de demonstrar a atuação do relé de canal duplo e o sensor higrometro ou sensor de umidade de solo.
 
