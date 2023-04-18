@@ -34,7 +34,7 @@ OBS: A imagem é apenas uma orientação, pode apresentar diferenças entre layo
 <table>
   <tr>
     <td>Higrômetro ou sensor de umidade de solo</td>
-    <td><img src="/acionamento_de_motorsensor_de_umidade_do_solo_higrometro.jpeg" alt="sensor higrometro"></td>
+    <td><img src="/acionamento_de_motor/sensor_de_umidade_do_solo_higrometro.jpeg" alt="sensor higrometro"></td>
   </tr>
 </table>
 
