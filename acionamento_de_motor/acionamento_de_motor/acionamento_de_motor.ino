@@ -25,7 +25,7 @@ void setup() {
   pinMode(pinSensor, INPUT);
 }
 
-//converção da escala do valor analogico para escala de 0% a 100%
+//conversão da escala do valor analogico para escala de 0% a 100%
 void PorcentagemUmidade(int readValue){
   // sensor - valor do solo, máximo, divisível e positivo
   readValue = 100 - (map(readValue, 330, 1024, 0, 100));
